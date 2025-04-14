@@ -1,3 +1,3 @@
-Homework Repository for a form with Regular Expressions to validate it.
+Homework form with Regular Expressions to validate certain input fields.
 
-Public Domain On Render: https://form-with-regex.onrender.com/
+You can test it here → https://form-with-regex.onrender.com/
